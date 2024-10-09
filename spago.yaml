@@ -1,0 +1,13 @@
+package:
+  name: js-unsafe-stringify
+  dependencies: []
+  test:
+    main: Test.Main
+    dependencies:
+      - console
+      - effect
+      - prelude
+workspace:
+  packageSet:
+    registry: 60.4.0
+  extraPackages: {}
